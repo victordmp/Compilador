@@ -1,0 +1,5 @@
+analise-lexica/lextab.py
+analise-lexica/log.txt
+
+lexica-testes/*.tpp.diff
+lexica-testes/*.tpp-test.out

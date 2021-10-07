@@ -1,0 +1,21 @@
+45,46c45
+< ID
+< Caracter inválido 'é'
+---
+> ATE
+78,80c77
+< ID
+< Caracter inválido 'ã'
+< ID
+---
+> ENTAO
+111,112c108
+< ID
+< Caracter inválido 'é'
+---
+> ATE
+121,122c117
+< ID
+< Caracter inválido 'é'
+---
+> ATE
